@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 📖 Studying for a M. Sc. Computer Science at NTNU, Norway
+- 📸 Hobby photographer - check out [tbwiik.com](https://tbwiik.com)
+- 🧗‍♀️ Passionate climber and outdoor enthusiast 
+- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/torbjoern-wiik/)
+
 <!--
 **tbwiik/tbwiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
