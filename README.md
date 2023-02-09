@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 So good to see you here!
 
 - 📖 Studying for a M. Sc. Computer Science at NTNU, Norway
 - 📸 Hobby photographer - check out [tbwiik.com](https://tbwiik.com)
